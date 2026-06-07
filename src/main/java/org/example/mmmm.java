@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class mmmm{
 
     public static void main(String[] args) {
+//h
 
 //        double totalTemp = 0;
 //        int ecoCount = 0;
